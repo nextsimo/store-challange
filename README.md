@@ -1,6 +1,6 @@
 # store-challange
-# Work on all cros platform ( Windows, Linux, MacOs ) 
-# Responsive Design
+  Responsive Design
+# Work on all cross platform ( Windows, Linux, MacOs ) 
 ![](show.gif)
 # Mobile devices
 ![](show-mob.gif)
